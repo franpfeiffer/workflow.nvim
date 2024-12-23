@@ -14,6 +14,7 @@ workflow.nvim us an plugin to create and manage ASCII diagrams directly in neovi
 
 ## Installation
 
+Using [packer.nvim](https://github.com/wbthomason/packer.nvim):
 ```lua
 use {
     'franpfeiffer/workflow.nvim',
