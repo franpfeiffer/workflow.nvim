@@ -92,6 +92,7 @@ Built-in templates:
 2. Decision Template (`:AsciiTemplate decision`):
 
 ```
+
     +-------+
     | Start |
     +-------+
@@ -103,6 +104,11 @@ Built-in templates:
 +---+     +---+
 |Yes|     |No |
 +---+     +---+
+  │         │
++----+   +----+
+|smth|   |smth|
++----+   +----+
+
 ```
 
 ### DSL (Domain Specific Language)
