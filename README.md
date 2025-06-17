@@ -1,5 +1,5 @@
 # workflow.nvim
-workflow.nvim us an plugin to create and manage ASCII diagrams directly in neovim.
+workflow.nvim is a plugin to create and manage ASCII diagrams directly in neovim.
 
 ## Features
 
